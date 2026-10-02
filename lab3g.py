@@ -8,3 +8,6 @@
 
 # Follow the specific instructions given in the README.md file
 
+mylist = []
+while len(mylist) < 6:
+  num = int(
