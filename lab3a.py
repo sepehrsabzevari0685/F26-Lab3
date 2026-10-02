@@ -9,7 +9,12 @@
 
 import random
 
-numbers = [random.randint(0,99) for _ in range(20)]
+numbers = []
+
+for i in range(20):
+  num=random.randint(0,99)
+  numbers.append(num)
+  
 print(numbers)
 numbers.sort()
 print(numbers)
