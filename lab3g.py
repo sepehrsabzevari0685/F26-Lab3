@@ -10,4 +10,7 @@
 
 mylist = []
 while len(mylist) < 6:
-  num = int(
+    num = int(input("Enter a number: "))
+    mylist.append(num * 10)
+mylist.reverse()
+print(mylist)
