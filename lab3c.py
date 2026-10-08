@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author:sepehr sabzevari
+# Date: 10/8/2026
 # Purpose: Create two lists and join them
 # Usage: ./lab3c.py
 
