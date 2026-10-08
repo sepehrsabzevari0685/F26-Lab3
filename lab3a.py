@@ -8,13 +8,11 @@
 
 
 import random
-
 numbers = []
-
 for i in range(20):
-  num=random.randint(0,99)
-  numbers.append(num)
-  
+    num = random.randint(0, 99)
+    numbers.append(num)
 print(numbers)
 numbers.sort()
 print(numbers)
+ 
