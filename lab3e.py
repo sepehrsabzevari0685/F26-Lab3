@@ -8,7 +8,8 @@
 
 # Follow the specific instructions given in the README.md file
 
-students = ["Ama", "Elina", "Maija" , "Daniel" , "Ebrahim"]
-students[1] = "maggy"
+students = ["Ama", "Elina", "Maija", "Daniel", "Ibrahim"]
+students[1] = "Maggy"
 for name in students:
-  print(name)
+    print(name)
+ 
